@@ -1,9 +1,23 @@
-.success {
-    color: green;
-    font-weight: bold;
+body{
+    font-family: Arial;
+    max-width: 600px;
+    margin: auto;
 }
 
-.error {
-    color: red;
-    font-weight: bold;
+ul{
+    padding: 0;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+button{
+    margin-left: 5px;
+}
+
+.message{
+    background: #e6ffe6;
+    padding: 10px;
+    border: 1px solid #66cc66;
 }
